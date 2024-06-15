@@ -21,10 +21,10 @@
 
 - **Functions Description**
   - Stay informed with the latest news articles fetched in real-time from NewsAPI.
-- Enjoy a user-friendly design that makes browsing news a seamless experience.
-- Discover news organized by various categories and topics, making it easy to find articles of interest.
-- Dive into full news articles effortlessly by clicking on the respective headlines.
- - Whether on a desktop, tablet, or mobile device, the app ensures a consistent and enjoyable experience across different screen sizes.
+  - Enjoy a user-friendly design that makes browsing news a seamless experience.
+  - Discover news organized by various categories and topics, making it easy to find articles of interest.
+  - Dive into full news articles effortlessly by clicking on the respective headlines.
+  - Whether on a desktop, tablet, or mobile device, the app ensures a consistent and enjoyable experience across different screen sizes.
  
  
  
