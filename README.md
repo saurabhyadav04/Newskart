@@ -11,7 +11,7 @@
 -Lastly, I've enhanced the user experience with an infinite scroll feature. As users scroll down, the app loads additional news content seamlessly, providing a continuous browsing experience.
  
 ### How to run the app?
-- The application was deployed on a [public url](https://modest-carson-21aa1e.netlify.com/) with the help Netlify's cloud.
+- The application was deployed on a [public url](https://newskartbysaurabh.netlify.app/) with the help Netlify's cloud.
 - To test the app locally:
   - `git clone https://github.com/saurabhyadav04/Newskart`
   - `cd NewsKart`
